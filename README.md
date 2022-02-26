@@ -10,5 +10,5 @@
 |`2주차`| 일단 만드는 PYTHON | [📚Link](https://github.com/Likelion-at-SMWU-10th/KimYuJin/issues/1) | ✅ |
 |`3주차`| [심화] 같이 푸는 PYTHON | [📚Link](https://github.com/Likelion-at-SMWU-10th/KimYuJin/issues/3)  | ✅ |
 |`4주차`| 일단 만드는 JS | [📚Link](https://github.com/Likelion-at-SMWU-10th/KimYuJin/issues/5) | ✅ |
-|`5주차`| 실검에 오르는 세렝게티 동물 테스트 만들기 |  |  |
+|`5주차`| 실검에 오르는 세렝게티 동물 테스트 만들기 | [📚Link](https://github.com/Likelion-at-SMWU-10th/KimYuJin/issues/7) | ✅ |
 |`6주차`| 일단 만드는 Django |  |  |
